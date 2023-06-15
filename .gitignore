@@ -1,0 +1,42 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/7.6.1/checksums/checksums.lock
+/.gradle/7.6.1/dependencies-accessors/dependencies-accessors.lock
+/.gradle/7.6.1/fileHashes/fileHashes.lock
+/.gradle/7.6.1/dependencies-accessors/gc.properties
+/.gradle/7.6.1/gc.properties
+/.gradle/vcs-1/gc.properties
+/.gradle/7.6.1/fileChanges/last-build.bin
